@@ -9,15 +9,15 @@
   "env": {
     "PAGE_ACCESS_TOKEN": {
       "description": "Your Facebook page access token. Recommend using a permanent system user token.",
-      "value": "Replace with your page access token"
+      "value": "EAAEn4g3UXIQBAKNZABkAKMFhZAZAv07bIBNpXatgVZAKowQ0v0OZArk4KKlBZAepmB1ZB9dkH07op0QDKUZCs81c8F07FRaPusUEDfAAP5vKCYtWZCkialfdWqk1AQ2iJ6veutaYG9tICJRDUMSTX2pqve34eYnFGbzlZAzTZA5ZA1qMPY7ZAZBT5IIWg1iLIpSUXJwIKOxWbeF9XZCuaIGgLZCyqLNZB"
     },
     "PAGE_ID": {
       "description": "ID of the public Facebook page where comments will be downloaded from.",
-      "value": "Replace with your page ID"
+      "value": "2523817464315698"
     },
     "PAGE_NAME": {
       "description": "The name of your Facebook page where comments will be downloaded from.",
-      "value": "Replace with your page name"
+      "value": "devindu.chathuranga"
     }
   },
   "formation": {
